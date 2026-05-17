@@ -1,7 +1,12 @@
 # 🎥 YouTube Playlist Downloader (C# WinForms)
 
-YouTube downloader, yt-dlp GUI, playlist downloader, video downloader for Windows, C# YouTube downloader
+A simple Windows desktop application built with C# WinForms using yt-dlp.
 
+Supports downloading:
+- YouTube videos
+- Playlists
+- Audio extraction (MP3)
+- Subtitle download
 
 # YTDownloader
 A YT Full Playlist or a Single Video with Subtitles Downloader 
